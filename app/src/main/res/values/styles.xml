@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorSplash</item>
+        <item name="colorPrimaryDark">@color/overlayLogin</item>
+        <item name="colorAccent">@color/cardview_dark_background</item>
+    </style>
+
+
+    <style name="AppTheme.ActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="actionMenuTextColor">@color/colorWhite</item>
+
+    </style>
+</resources>

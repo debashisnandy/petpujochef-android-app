@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PetPujo Chef</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_pass">Enter Password</string>
+    <string name="loginText">Login</string>
+    <string name="askQuestion">New to PetPujo?</string>
+    <string name="signUp">SignUp</string>
+    <string name="accept_ord">Accept Orders</string>
+    <string name="deliver_ord">Deliver Orders</string>
+    <string name="current_ord">Current Order</string>
+    <string name="upcmng_order">Stock Order</string>
+    <string name="wrng_cre">Invalid Credentials</string>
+    <string name="ord_cmplt">Done</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

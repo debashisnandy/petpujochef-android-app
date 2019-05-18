@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".acceptorders.fragmentscollection.UpcomingOrderFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ListView
+              android:id="@+id/lView"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:dividerHeight="4dp"
+              android:divider="#bdbdbd"
+              tools:context=".MainActivity">
+
+    </ListView>
+</FrameLayout>
